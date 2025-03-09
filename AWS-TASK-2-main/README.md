@@ -1,1 +1,0 @@
-# AWSLambdaTask2
